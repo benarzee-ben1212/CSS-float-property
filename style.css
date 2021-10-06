@@ -1,0 +1,19 @@
+.div {
+    width:600px;
+    height:600px;
+    background-color: rgb(41, 38, 38);
+}
+
+.img {
+    height:300px;
+    width:300px;
+    float:left;
+    margin:20px;
+    
+
+}
+
+.para {
+    color: blanchedalmond;
+    padding:10px;
+}
